@@ -17,4 +17,15 @@ I have an analytical mindset, I quickly learn new material.
 	Keil uVision
 	IDEA
 	MSVisualStudio
-	Eclipse	
+	Eclipse
+5.
+```javascript
+function test() {
+    console.log("notice the blank line before this function?");
+}
+```
+6.-----
+7.Secondary education
+8.Studied at a gymnasium with a linguistic bias, two years ago spoke 
+fluent English, taught technical English at the university, in 2018 
+passed the centralized test for 80 points 
