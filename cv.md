@@ -5,3 +5,16 @@
 I am studying in BSU in Mechanical-mathematitian faculty and therefore
 I have no problems with mathematics and other exact sciences, 
 I have an analytical mindset, I quickly learn new material.
+4.Programming languages:
+	Assembler
+	VHDL
+	Verilog/SystemVerilog
+	C/C++/Java(basics) 
+  Development tools:
+	AVRStudio
+	Vivado
+	CubeIDE
+	Keil uVision
+	IDEA
+	MSVisualStudio
+	Eclipse	
